@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="municipality_beijing">#D32F2F</color>
+    <color name="municipality_shanghai">#E91E63</color>
+    <color name="municipality_tianjin">#212121</color>
+    <color name="municipality_chongqing">#FF8F00</color>
+    <color name="color_text_light">#FFFFFFFF</color>
+    <color name="color_text_dark">#212121</color>
+    <color name="color_default_background">#FFF5F5F5</color>
 </resources>
