@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chinese Municipalities</string>
+    <string name="main_title">Municipalities in China</string>
+    <string name="input_label">I want to know about:</string>
+</resources>
